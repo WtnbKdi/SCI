@@ -1,4 +1,4 @@
-# SCI
+# SimpleCInterpreter
 cサブセットのインタプリタです。
 checkファイルに置かれている.cファイルは、一通り動作することを確認済み。
 
