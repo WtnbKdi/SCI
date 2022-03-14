@@ -1,4 +1,4 @@
-# Simple C Interpreter (SCI)
+# SCI (Simple C Interpreter)
 # 説明
 Cサブセットのインタプリタです。
 checkファイルに置かれている.cファイルは、一通り動作することを確認済み。
